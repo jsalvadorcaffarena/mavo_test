@@ -1,0 +1,4 @@
+completely start from scracth
+
+git update-ref -d HEAD
+git reset --hard 
